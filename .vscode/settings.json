@@ -1,0 +1,7 @@
+{
+    "ansible.executionEnvironment.enabled": false,
+    "ansible.executionEnvironment.image": "registry.redhat.io/ansible-automation-platform-24/ee-supported-rhel8:latest",
+    "ansible.python.interpreterPath": "/opt/homebrew/bin/python3",
+    "ansible.ansible.reuseTerminal": true,
+    "ansible.playbook.arguments": "--mode stdout"
+}
